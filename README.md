@@ -1,7 +1,6 @@
 # Laxmi Yogi
 
-**Front-End Developer | Web Designer**
-
+ 
 Passionate about creating intuitive, accessible, and performant web applications. Focused on delivering clean code and excellent user experiences through modern web technologies.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/laxmi-yogi-3240b2248)
