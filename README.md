@@ -4,8 +4,7 @@
 Passionate about creating intuitive, accessible, and performant web applications. Focused on delivering clean code and excellent user experiences through modern web technologies.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/laxmi-yogi-3240b2248)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/laxmiyogi292757)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/laxmi_yogi03)
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/laxmi_yogi03)
 
 ## Technical Skills
 
